@@ -4,6 +4,12 @@
 *.war
 *.ear
 
+# Eclipse Files #
+.classpath
+.project
+.settings/
+*.launch
+
 # IDEA Files #
 *.iml
 /.idea
