@@ -43,7 +43,7 @@ public class iChunUtil
     public static final int VERSION_MINOR = 2;
     public static final String VERSION = VERSION_MAJOR + "." + VERSION_MINOR + ".0";
 
-    public static final String MOD_NAME = "iChunUtil";
+    public static final String MOD_NAME = "PigUtils";
     public static final String MOD_ID = "ichunutil";
 
     public static final int REQ_FORGE_MAJOR = 12;

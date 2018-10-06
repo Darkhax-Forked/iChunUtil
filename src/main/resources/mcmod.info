@@ -1,14 +1,14 @@
 [
 {
   "modid" : "ichunutil",
-  "name" : "iChunUtil",
+  "name" : "PigUtils",
   "version" : "${version}",
   "url" : "http://ichun.me/mods/ichunutil/",
   "credits" : "",
   "authorList": [
     "iChun"
   ],
-  "description": "Shared library mod required by several of iChun's Mods.",
+  "description": "A fork of iChun's iChunUtil mod.",
   "logoFile" : "",
   "updateUrl" : "",
   "parent" : "",
