@@ -1,3 +1,9 @@
+Notice: This repo is for PigUtils. PigUtils is a fork of the iChunUtils mod made by iChun. Permission for this fork has been granted under the [LGPL 3.0 license](https://github.com/iChun/Morph/blob/3af274b05632dd1849bd3d4e4e5e9728fb316e8c/COPYING). You can find the original mod by iChun [here](https://minecraft.curseforge.com/projects/morph). The sources for the original mod by iChun can be found [here](https://github.com/iChun/Morph). The sources for the PigUtils fork can be found [here](https://github.com/Darkhax-Forked/iChunUtil). All of the changes I have made to his project can be seen in the GitHub commit history.
+
+**If you run into any issues while using this fork, you should report them to this project instead of iChun's iChunUtils pages. iChun is not responsible for issues caused by changes I have made.**
+
+## Original README
+
 If you have an error with protected/private access etc, you need to put /src/main/resources/META-INF/iChunUtil_at.cfg into Forge's src folder (same folder structure) and rerun setupDecompWorkspace. Make sure the Forge setup finds the AT config or you're doing it wrong.
 
 How to set up this and another mod of mine to be compiled:
