@@ -53,6 +53,9 @@ public class ProxyCommon
         {
             cfg.setup();
         }
+
+        iChunUtil.LOGGER.info("This user is using the PigUtils fork of iChunUtils. They do not accept the EULA included in the original mod.");
+        iChunUtil.LOGGER.info("PigUtils is a fork of iChunUtils. Any issues with iChunUtils should be reported to the PigUtils mod first.");
     }
 
     public String getPlayerId()
