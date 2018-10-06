@@ -27,9 +27,6 @@ ichunutil.config.cat.module.compactPorkchop.comment=Configs for the compact pork
 ichunutil.config.prop.enableCompactPorkchop.name=Allow Compact Raw Porkchop?
 ichunutil.config.prop.enableCompactPorkchop.comment=Enable the Compact Raw Porkchop block recipe?
 
-ichunutil.config.cat.module.eula.name=EULA
-ichunutil.config.cat.module.eula.comment=EULA settings.
-ichunutil.config.prop.eulaAcknowledged.name=EULA acknowledged
 ichunutil.config.prop.eulaAcknowledged.comment=String to say that you've acknowledged the EULA\nIf this config is for a server, set it to true.
 
 ichunutil.config.cat.module.patreon.name=Patreon

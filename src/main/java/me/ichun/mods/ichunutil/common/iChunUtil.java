@@ -89,10 +89,6 @@ public class iChunUtil
         @IntBool
         public int enableCompactPorkchop = 1;
 
-        //EULA module
-        @ConfigProp(module = "eula")
-        public String eulaAcknowledged = "";
-
         //Patreon module
         @ConfigProp(module = "patreon", side = Side.CLIENT, hidden = true)
         @IntBool

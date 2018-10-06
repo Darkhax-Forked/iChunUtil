@@ -53,14 +53,6 @@ public class ProxyCommon
         {
             cfg.setup();
         }
-
-        if(!(iChunUtil.config.eulaAcknowledged.equalsIgnoreCase("true") || iChunUtil.config.eulaAcknowledged.equalsIgnoreCase(getPlayerName())))
-        {
-            iChunUtil.LOGGER.info("=============================================================");
-            iChunUtil.LOGGER.info(I18n.translateToLocal("ichunutil.eula.message"));
-            iChunUtil.LOGGER.info(I18n.translateToLocal("ichunutil.eula.messageServer"));
-            iChunUtil.LOGGER.info("=============================================================");
-        }
     }
 
     public String getPlayerId()
